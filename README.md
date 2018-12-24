@@ -1,6 +1,6 @@
-# The Hacker-Blog theme
+# The Hack3rMine
 
-*Hacker-Blog is a minimalistic, responsive jekyll theme built for hackers. It is based on the [hacker theme](https://github.com/pages-themes/hacker) for project pages.*
+*Hacker Mine is a place where you can find cool stuff to learn, we publish atleast one post a week. *
 
 Demo: [https://ashishchaudhary.in/hacker-blog](https://ashishchaudhary.in/hacker-blog)
 
